@@ -3,6 +3,7 @@
 # usage: python search-terms.py -k APIKEY -v VERSION -s STRING
 # see https://documentation.uts.nlm.nih.gov/rest/search/index.html for full docs
 # on the /search endpoint
+# api key can be found online as well
 #################################################################################
 
 from __future__ import print_function
